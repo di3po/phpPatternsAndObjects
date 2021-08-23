@@ -1,0 +1,2 @@
+dish: Pizza - price: 1.25 - spicy: no
+dish: Korean noodles - price: 5.00 - spicy: yes
